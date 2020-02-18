@@ -1,3 +1,3 @@
 ## PHP-Technology-Stack-Review
 *** 
-### 记录复习PHP开发中用到的技术栈的笔记
+### 复习PHP相关技术栈时的笔记

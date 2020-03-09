@@ -1,7 +1,7 @@
-### 4.4 MySQL数据库 -- MySQL查询优化
+## 4.4 MySQL数据库 -- MySQL查询优化
 ***
 
-#### 查找分析查询速度慢的原因
+### 分析查询速度慢的原因
 
 **使用explain：**
 
@@ -120,7 +120,7 @@ mysql>
 
 > 分析查询日志，不要直接打开慢查询日志进行分析，可以使用pt-query-digest工具进行分析。
 
-#### 优化查询
+### 优化查询
 
 **优化查询过程中的数据访问：**
 > 首先看自己的SQL语句中是否满足以下三个条件：
@@ -195,4 +195,4 @@ mysql>
 > 
 > 具体字段含义参考上面的内容。
 
-**下一小节：4.5 MySQL高可用&高可拓展**
+[**下一小节：4.5 MySQL高可用&高可拓展**](https://github.com/201502lisihao/PHP-Technology-Stack-Review/blob/master/4-MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/4-5MySQL%E9%AB%98%E5%8F%AF%E7%94%A8%26%E9%AB%98%E5%8F%AF%E6%8B%93%E5%B1%95.md)

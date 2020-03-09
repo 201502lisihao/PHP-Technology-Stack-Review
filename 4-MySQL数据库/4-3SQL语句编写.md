@@ -1,11 +1,11 @@
-### 4.3 MySQL数据库 -- SQL语句编写
+## 4.3 MySQL数据库 -- SQL语句编写
 ***
 
 增删改查比较基础，这里不做赘述，需要单独复习的同学[点击这里](https://www.runoob.com/mysql/mysql-insert-query.html)。
 
 我们直接来复习关联查询。
 
-#### MySQL的关联查询语句
+### MySQL的关联查询语句
 
 **六种关联查询：**
 ```sql
@@ -108,4 +108,4 @@ matchs表：
 SELECT t1.teamName, m.matchResult, t2.teamName, m.matchDate FROM matchs AS m LEFT JOIN team AS t1 ON m.hostTeamId = t1.teamId, LEFT JOIN team AS t2 ON m.guestTeamId = t2.teamId WHERE m.matchData between "2006-06-01" and "2006-07-01";
 ```
 
-**下一小节：4.4 MySQL查询优化**
+[**下一小节：4.4 MySQL查询优化**](https://github.com/201502lisihao/PHP-Technology-Stack-Review/blob/master/4-MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/4-4MySQL%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96.md)

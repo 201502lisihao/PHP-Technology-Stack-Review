@@ -1,13 +1,13 @@
-#### 4.3 MySQL数据库 -- SQL语句编写
+### 4.3 MySQL数据库 -- SQL语句编写
 ***
 
 增删改查比较基础，这里不做赘述，需要单独复习的同学[点击这里](https://www.runoob.com/mysql/mysql-insert-query.html)。
 
 我们直接来复习关联查询。
 
-**MySQL的关联查询语句**
+#### MySQL的关联查询语句
 
-六种关联查询：
+**六种关联查询：**
 ```sql
 1. CROSS JOIN（交叉连接）
 2. INNER JOIN（内连接）

@@ -1,7 +1,7 @@
-### 2.1 JavaScript、JQuery和AJAX基础 --  JavaScript、JQuery
+## 2.1 JavaScript、JQuery和AJAX基础 --  JavaScript、JQuery
 ***
 
-#### JavaScript基础语法
+### JavaScript基础语法
 
 **变量的定义：**
 
@@ -39,7 +39,7 @@
 
 > 注意：`else if`必须分开写，PHP中`elseif`可以连着写也可以分开写。
 
-#### JavaScript内置对象
+### JavaScript内置对象
 
 **Nubmer：**
 ```javascript
@@ -109,7 +109,7 @@ new RegExp(pattern, attributes);
 
 拓展：[JavaScript HTML DOM对象](https://www.w3school.com.cn/js/js_htmldom.asp)
 
-#### JQuery基础知识
+### JQuery基础知识
 
 拓展：[JQuery选择器](https://www.runoob.com/jquery/jquery-ref-selectors.html)
 拓展：[JQuery事件](https://www.runoob.com/jquery/jquery-ref-events.html)

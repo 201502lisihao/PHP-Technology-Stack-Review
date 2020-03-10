@@ -1,18 +1,18 @@
-### 2.2 JavaScript、JQuery和AJAX基础 --  AJAX
+## 2.2 JavaScript、JQuery和AJAX基础 --  AJAX
 ***
-#### AJAX基本概念：
+### AJAX基本概念：
 
 > Asynchronous JavaScript and XML （异步的JavaScript和XML）
 > 
 > 通过后台与服务器进行少量的数据交换，可以使网页实现异步更新
 
-#### AJAX基本工作原理：
+### AJAX基本工作原理：
 
 > XMLHttpRequest是AJAX的基础，XMLHttpRequest是一个对象
 > 
 > XMLHttpRequest用于在后台与服务器交换数据
 
-#### XMLHttpRequest对象
+### XMLHttpRequest对象
 
 **请求：**
 ```javascript
@@ -62,7 +62,7 @@ status // 返回请求的状态号。200 OK、 403 Forbidden、 404 Not Found等
 </html>
 ```
 
-#### JQuery的AJAX操作
+### JQuery的AJAX操作
 
 **常用方法：**
 

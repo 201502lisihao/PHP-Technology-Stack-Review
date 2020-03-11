@@ -52,4 +52,4 @@ delete from user where id=?;
 真题2：为什么使用PDO和MySQLi连接数据库比用原生的数据库函数连接要安全？
 > 因为PDO和MySQLi支持预处理，可以有效预防SQL注入。原生数据库函数不支持预处理。
 
-[**下一小节：5.1 程序功能设计**]()
+[**下一小节：5.1 程序功能设计**](https://github.com/201502lisihao/PHP-Technology-Stack-Review/blob/master/5-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/5-1%E7%A8%8B%E5%BA%8F%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1.md)
